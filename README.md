@@ -10,9 +10,7 @@ I'm a passionate programmer with 2+ years of experience in software development.
 ## Projects
 Here are a few noteworthy projects I have worked on:
 
-- Project 1: [Project Name](https://github.com/your-username/project-repo): Brief description of the project, technologies used, and your contributions.
-- Project 2: [Project Name](https://github.com/your-username/project-repo): Brief description of the project, technologies used, and your contributions.
-- Project 3: [Project Name](https://github.com/your-username/project-repo): Brief description of the project, technologies used, and your contributions.
+- Project 1: [Promptopia](https://github.com/your-username/project-repo): Promptopia is an open-source AI prompting toll for moderen world to discover, create and share creative prompts. (Promptopia)[https://promptopia.akshay0307.com/]
 
 ## Skills
 - Programming Languages: JavaScript, HTML, CSS
