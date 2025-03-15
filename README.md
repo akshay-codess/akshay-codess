@@ -10,7 +10,7 @@ I'm a passionate programmer with 2+ years of experience in software development.
 ## Projects
 Here are a few noteworthy projects I have worked on:
 
-- Project 1: [Promptopia](https://github.com/your-username/project-repo): Promptopia is an open-source AI prompting toll for moderen world to discover, create and share creative prompts. (Promptopia)[https://promptopia.akshay0307.com/]
+- Project 1: [Promptopia](https://github.com/your-username/project-repo): Promptopia is an open-source AI prompting toll for moderen world to discover, create and share creative prompts. [Promptopia here](https://promptopia.akshay0307.com/)
 
 ## Skills
 - Programming Languages: JavaScript, HTML, CSS
@@ -19,7 +19,7 @@ Here are a few noteworthy projects I have worked on:
 - Version Control: Git, GitHub
 
 ## Contact Me
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can connect with me via email at [akshayy.codes@gmail.com](mailto:akshayy.codes@gmail.com) or find me on [LinkedIn]([(https://www.linkedin.com/in/akshay-akshay-54ba0119b/]).
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can connect with me via email at [akshayy.codes@gmail.com](mailto:akshayy.codes@gmail.com) or find me on (LinkedIn)[https://www.linkedin.com/in/akshay-akshay-54ba0119b/].
 
 I'm always open to new challenges and learning opportunities, so don't hesitate to get in touch!
 
